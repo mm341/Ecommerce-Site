@@ -1,0 +1,39 @@
+.product-section {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 40px 20px;
+    margin-top: 100px;    
+    font-weight: 400;
+  }  
+  .product-title ,.product-brand{
+    font-size: 40px;
+    
+  }
+  
+  
+  .product-info > div span:first-child {
+    padding: 10px 0px;
+    font-weight: 600;
+    width: 100px;
+    display: inline-block;
+    
+  }
+  .product-info {
+    button{
+      margin-top: 20px;
+    }
+    button:hover{
+      transform: scale(1.1);
+      background-color: green;
+    }
+  }
+   
+  
+  .section-right {
+    margin-left: 30px;
+    width: 30%;
+    img{
+      width: 200px !important;
+      height: 200px !important;
+    }
+  }
