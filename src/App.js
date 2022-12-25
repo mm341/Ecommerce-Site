@@ -18,7 +18,7 @@ function App() {
        <ToastContainer/>
       <BigNav/>
       <Routes>
-        <Route path='/Ecommerce-Site' element={<Home/>}/>
+        <Route path='/Ecommerce-Site/' element={<Home/>}/>
         <Route path='product/:id/cart' element={<Cart/>}/>
         <Route path='cart' element={<Cart/>}/>
         <Route path='*' element={<Notfound/>}/>

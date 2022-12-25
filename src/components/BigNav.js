@@ -47,7 +47,7 @@ const[border2,setBorder2]=useState(false)
     <>
 <nav className="navbar navbar-dark bg-dark fixed-top ">
   <div className="container">
-  <Link to='/Ecommerce-Site' className="navbar-brand"><h1 onClick={handel} className='logo'>Bary</h1>
+  <Link to='/Ecommerce-Site/' className="navbar-brand"><h1 onClick={handel} className='logo'>Bary</h1>
   <img onClick={handel} src={navLogo} alt=""/>
    </Link>
     <ul className="firstUl navbar-nav  flex-grow-1 pe-3 ">
