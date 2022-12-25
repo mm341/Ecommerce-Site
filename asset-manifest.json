@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Ecommerce-Site/static/css/main.3f06be3b.css",
-    "main.js": "/Ecommerce-Site/static/js/main.9fe0be0b.js",
+    "main.js": "/Ecommerce-Site/static/js/main.cdf7141c.js",
     "static/js/787.dcc73137.chunk.js": "/Ecommerce-Site/static/js/787.dcc73137.chunk.js",
     "static/media/banner-hero-fay2_d2dc220f-1719-4540-a525-066324ce1c9d.webp": "/Ecommerce-Site/static/media/banner-hero-fay2_d2dc220f-1719-4540-a525-066324ce1c9d.20ef1c3a4280924eca0e.webp",
     "static/media/kids-banner.webp": "/Ecommerce-Site/static/media/kids-banner.c4e94f0aafe316d40e9c.webp",
@@ -12,11 +12,11 @@
     "static/media/web_banner-1400-940_pull_over_482x.webp": "/Ecommerce-Site/static/media/web_banner-1400-940_pull_over_482x.6a2bd5ea432d83bbd470.webp",
     "index.html": "/Ecommerce-Site/index.html",
     "main.3f06be3b.css.map": "/Ecommerce-Site/static/css/main.3f06be3b.css.map",
-    "main.9fe0be0b.js.map": "/Ecommerce-Site/static/js/main.9fe0be0b.js.map",
+    "main.cdf7141c.js.map": "/Ecommerce-Site/static/js/main.cdf7141c.js.map",
     "787.dcc73137.chunk.js.map": "/Ecommerce-Site/static/js/787.dcc73137.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3f06be3b.css",
-    "static/js/main.9fe0be0b.js"
+    "static/js/main.cdf7141c.js"
   ]
 }
